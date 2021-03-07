@@ -1,5 +1,3 @@
-## Introduction to functional programming
-
 Procedural programming, object-oriented programming, functional programming, we refer to these terms as programming paradigms. They practically define how you should style or structure your code to make it more efficient and easy to read.
 
 Functional programming, in particular, has long been seen as the future standard for writing code. However, even those who have been working in the computer science industry for many years are still not able to properly understand this concept and make use of it properly in regular programming works. It is not very surprising as many people might think code style is not very important. After all, if the code works, then everything is good. There is no need to care about these details if we are not computer science experts... Right? Well, no. Being able to use functional programming can be vital, especially if you are working in a team and your code will need to be understood by others. Functional programming can improve the maintainability, readability, efficiency of your code greatly, and help others avoid making some mistakes when using your code.
